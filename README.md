@@ -9,9 +9,14 @@ I am passionate about leveraging my skills to develop and contribute to innovati
 
 ## Quests: Discover the diverse endeavors I've undertaken.
 - [VisonMouse](https://github.com/Havee005/VisionMouse)
-- [Auto-Tank]()
-- [Flexible Manipulator]()
+- [Auto-Tank](https://github.com/Havee005/Auto-Tank)
+- [Flexible Manipulator](https://github.com/Havee005/Flexible-Manipulator)
+  
 ## Crafts: Explore the skills and abilities I've honed.
+- Languages & Frameworks: Python, Embedded C/C++, Computer Vision, Machine Learning.
+- Tools: ROS, ROS2, Gazebo, OpenCV, Tensor Flow, PyTorch, Fusion 360, MATLAB.
+- Hands-On: Raspberry Pi, Arduino, Jetson Nano, LIDAR, PCB fabrication
+
 ## Missives: Send forth your ravens for correspondence.
 ### May your stay be enlightening and your curiosity sated. Feel free to wander through my digital domain.
 E-mail: haveenashsrm@gmail.com
